@@ -55,7 +55,7 @@ Snake-Game-AI
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://abeerla.github.io/AI-Snake-Game/
 
 ### 2️⃣ Install required libraries
 ```bash
